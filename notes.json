@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "note": "Patient presents with persistent dry cough worsening over the past week.",
+    "has_cough": true
+  },
+  {
+    "id": 2,
+    "note": "Complains of chest pain but denies cough or fever.",
+    "has_cough": false
+  },
+  {
+    "id": 3,
+    "note": "Cough resolved after completing azithromycin course. No symptoms today.",
+    "has_cough": false
+  },
+  {
+    "id": 4,
+    "note": "Mother has a chronic cough; patient asymptomatic.",
+    "has_cough": false
+  },
+  {
+    "id": 5,
+    "note": "Reports coughing fits primarily at night, with occasional sputum.",
+    "has_cough": true
+  },
+  {
+    "id": 6,
+    "note": "No evidence of cough, wheeze, or dyspnea during examination.",
+    "has_cough": false
+  },
+  {
+    "id": 7,
+    "note": "Symptoms include shortness of breath and productive cough for three days.",
+    "has_cough": true
+  },
+  {
+    "id": 8,
+    "note": "History of asthma with prior episodes of wheezing and coughing, currently stable.",
+    "has_cough": false
+  },
+  {
+    "id": 9,
+    "note": "The patient states she occasionally clears her throat but denies an actual cough.",
+    "has_cough": false
+  },
+  {
+    "id": 10,
+    "note": "Dry cough noted during auscultation, more prominent on exertion.",
+    "has_cough": true
+  },
+  {
+    "id": 11,
+    "note": "No current complaints. Previously had mild cough during COVID infection last month.",
+    "has_cough": false
+  },
+  {
+    "id": 12,
+    "note": "Intermittent cough observed, possibly secondary to ACE inhibitor use.",
+    "has_cough": true
+  },
+  {
+    "id": 13,
+    "note": "Patient with COPD exacerbation; presents with increased cough and sputum production.",
+    "has_cough": true
+  },
+  {
+    "id": 14,
+    "note": "States he has felt fine except for some sinus congestion, denies cough.",
+    "has_cough": false
+  },
+  {
+    "id": 15,
+    "note": "Spontaneous coughs noted during interview, unprompted.",
+    "has_cough": true
+  },
+  {
+    "id": 16,
+    "note": "Reports 'tickle in throat' but unsure if it's a real cough.",
+    "has_cough": false
+  },
+  {
+    "id": 17,
+    "note": "Woke up several times last night due to coughing spells.",
+    "has_cough": true
+  },
+  {
+    "id": 18,
+    "note": "Clearing throat frequently but denies productive cough or fever.",
+    "has_cough": false
+  },
+  {
+    "id": 19,
+    "note": "Non-productive cough started yesterday, no other symptoms yet.",
+    "has_cough": true
+  },
+  {
+    "id": 20,
+    "note": "Denies cough, rhinorrhea, or sore throat. Chest is clear to auscultation.",
+    "has_cough": false
+  },
+  {
+    "id": 21,
+    "note": "Nursing staff noted coughing during the night shift.",
+    "has_cough": true
+  },
+  {
+    "id": 22,
+    "note": "Occasional cough, attributed to post-nasal drip. No distress.",
+    "has_cough": true
+  },
+  {
+    "id": 23,
+    "note": "Cough has resolved. Patient no longer experiencing symptoms.",
+    "has_cough": false
+  },
+  {
+    "id": 24,
+    "note": "The patient started coughing again after stopping antihistamines.",
+    "has_cough": true
+  },
+  {
+    "id": 25,
+    "note": "No active cough but had bronchitis two weeks ago.",
+    "has_cough": false
+  },
+  {
+    "id": 26,
+    "note": "Reports tight chest and mild cough after exposure to allergens.",
+    "has_cough": true
+  },
+  {
+    "id": 27,
+    "note": "The patient sneezed several times, no cough noted.",
+    "has_cough": false
+  },
+  {
+    "id": 28,
+    "note": "Verbalized frustration over ongoing dry cough that disrupts sleep.",
+    "has_cough": true
+  },
+  {
+    "id": 29,
+    "note": "Wheezing present; however, no signs of cough at this time.",
+    "has_cough": false
+  },
+  {
+    "id": 30,
+    "note": "Chronic cough, likely related to GERD, per patient report.",
+    "has_cough": true
+  }
+]
